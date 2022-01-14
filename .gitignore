@@ -46,3 +46,7 @@ artifacts
 #keys
 .secret
 .infuraid
+
+
+#deploy
+netlify.toml
