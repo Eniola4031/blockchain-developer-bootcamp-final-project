@@ -5,10 +5,7 @@ import { useRouter } from 'next/router'
 import Web3Modal from 'web3modal'
 
 const client = ipfsHttpClient('https://ipfs.infura.io:5001/api/v0')
-
-import {
-  nftaddress, nftmarketaddress
-} from '../config'
+import {nftaddress, nftmarketaddress} from '../config'
 //import NFT from '../artifacts/contracts/NFT.sol/NFT.json'
 import NFT from '../NFT.json'
 import Market from '../NFTMarket.json'
