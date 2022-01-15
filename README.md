@@ -32,6 +32,9 @@ Open http://localhost:3000
 
 ## Screencast video link
 
+## Live Project link
+https://nft-marketfront-end.netlify.app/
+
 
 ## Public Ether address
 0xE3A9a11232f4D52786CA61f56bB7Fb01b00C80cd
