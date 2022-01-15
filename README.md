@@ -37,7 +37,7 @@ Open http://localhost:3000
 0xE3A9a11232f4D52786CA61f56bB7Fb01b00C80cd
 
 ## Directory Structure
-Client: Nuxt.js was used for the frontend
+Client: Next.js was used for the frontend
 Contracts: smart contracts that are deployed on polygon
 Scripts: Scripts for deploying smart contracts
 Test: Test for smart contracts
