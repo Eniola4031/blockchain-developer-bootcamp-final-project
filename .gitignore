@@ -50,4 +50,4 @@ artifacts
 
 #deploy
 procfile
-etlify.toml
+netlify.toml
